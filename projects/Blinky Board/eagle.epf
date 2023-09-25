@@ -1,0 +1,27 @@
+[Eagle]
+Version="09 06 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:80"
+UsedLibraryUrn="urn:adsk.eagle:library:289"
+UsedLibraryUrn="urn:adsk.eagle:library:302"
+UsedLibraryUrn="urn:adsk.eagle:library:325"
+UsedLibraryUrn="urn:adsk.eagle:library:420"
+UsedLibraryUrn="urn:adsk.eagle:library:15786225"
+UsedLibrary="C:/Users/shahd/Downloads/QFN2500P5200X350X2500-154N.lbr"
+UsedLibrary="C:/Users/shahd/Downloads/QFN2500P5200X350X2500-154N (1).lbr"
+UsedLibrary="C:/Users/shahd/Downloads/A4988_STEPPER_MOTOR_DRIVER_CARRIER.lbr"
+UsedLibrary="C:/Users/shahd/Downloads/QFN50P500X500X100-29N.lbr"
+UsedLibrary="C:/Users/shahd/Downloads/diy-modules-1_0_0/diy-modules.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="960 600"
+Window="Win_1"
